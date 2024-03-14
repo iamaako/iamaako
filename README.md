@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.imgur.com/wdKZTTw.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/iamaako/iamaako/main/W5Xw.gif"  />
 
 ###
 
