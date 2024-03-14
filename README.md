@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aarif Khan and I'm a Coding Learner from India i❤️</h2>
+<h2 align="left">Hi 👋! My name is Aarif Khan and I'm a Coding Learner from India ❤️</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.imgur.com/qMeqU3T.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/iamaako/iamaako/main/0314.gif"  />
 
 ###
 
