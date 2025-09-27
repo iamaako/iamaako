@@ -280,15 +280,14 @@ workflow:
   </a>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/🚀_TeamGTC-Join_The_Journey-CCCCCC?style=for-the-badge&labelColor=000000&color=CCCCCC" />
+  <a href="https://telegram.me/grandtheftcoders">
+    <img src="https://img.shields.io/badge/🚀_TeamGTC-Join_The_Journey-CCCCCC?style=for-the-badge&labelColor=000000&color=CCCCCC" />
 </td>
 </tr>
 </table>
 
 ### 💬 **Want to collaborate?**
 *I'm always excited to work on innovative projects that make a difference!*
-
-<img src="https://komarev.com/ghpvc/?username=iamaako&label=Profile%20Views&color=FFFFFF&style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -303,7 +302,4 @@ workflow:
 
 </div>
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" />
-</div>
+
