@@ -1,9 +1,13 @@
-<!-- SIMPLE BUT POWERFUL HEADER -->
+
+
 <div align="center">
   
-  <h1 style="font-size: 4em; font-weight: 900; color: #000; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin: 40px 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-    AARIF KHAN
-  </h1>
+░█████╗░░█████╗░██████╗░██╗███████╗  ██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗██╔══██╗██║██╔════╝  ██║░██╔╝██║░░██║██╔══██╗████╗░██║
+███████║███████║██████╔╝██║█████╗░░  █████═╝░███████║███████║██╔██╗██║
+██╔══██║██╔══██║██╔══██╗██║██╔══╝░░  ██╔═██╗░██╔══██║██╔══██║██║╚████║
+██║░░██║██║░░██║██║░░██║██║██║░░░░░  ██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░░░░  ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
   
   <div style="background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57); height: 4px; width: 300px; margin: 0 auto 30px auto; border-radius: 2px;"></div>
   
